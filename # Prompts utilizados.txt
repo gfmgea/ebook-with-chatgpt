@@ -1,0 +1,94 @@
+# Prompt 1
+
+Crie um título de ebook sobre o tema de estufa controlada em arduino
+
+o ebook é do nicho de eletrônica industrial e o subnicho é controle e automação em arduino
+
+o título deve ser curto e épico, temática nerd
+
+me liste 5 títulos
+
+============================================================================================
+
+# Prompt 2
+
+Esse ebook será separado em alguns capitulos: o que é uma estufa, componentes utilizados, plataformas e microcontrolador utilizados, circuito usado em testes, desenvolvimento do protótipo
+
+============================================================================================
+
+# Prompt 3
+
+Certo. Sobre o capítulo 1, desenvolva um título, subtítulo e conteúdo para colocarmos nesse ebook.
+
+============================================================================================
+
+# Prompt 4
+
+Desenvolva esse conteúdo também dizendo o que são as estufas e para quê elas servem
+
+============================================================================================
+
+# Prompt 5
+
+Voltando ao capítulo 2, desenvolva o título, subtitulo e conteúdo com base nos componentes listados:
+
+sensor de temperatura, sensor de umidade do solo e sensor de luminosidade
+ventoinha, valvula solenoide e led alto brilho 
+
+============================================================================================
+
+# Prompt 6
+
+Certo. Agora desenvolva a discussão sobre como instalar, calibrar e explorar as aplicações práticas para cada componente listado por você anteriormente. 
+
+Lembre-se que o microcontrolador que utilizaremos é o arduino
+
+============================================================================================
+
+# Prompt 7
+
+Voltando ao capítulo 3, desenvolva o título, subtitulo e conteúdo com base na plataforma utilizada Arduino IDE e no microcontrolador utilizado: Arduino UNO
+
+============================================================================================
+
+# Prompt 8
+
+Crie e desenvolva as discussões de cada tópico:
+
+Arduino IDE: A Ferramenta de Desenvolvimento Poderosa e Amigável: 
+Arduino UNO: O Coração da Operação:
+Integração Arduino IDE e Arduino UNO:
+
+============================================================================================
+
+# Prompt 9
+
+Voltando ao capítulo 4, desenvolva o título, subtitulo 
+e desenvolva o conteúdo com base em que foi utilizado um simulador de circuitos eletricos para simular o funcionamento de uma estufa: os componentes ligados ao arduino, leds funcionando com base no sensor de luminosidade, valvula ligando com base na umidade do solo e ventoinha ligando com base na temperatura
+
+============================================================================================
+
+# Prompt 10
+
+Aborde e explore cada tópico que você acabou de citar
+
+============================================================================================
+
+# Prompt 11
+
+Voltando ao capítulo 6, Do Protótipo à Realidade
+desenvolva o conteúdo com base  no Processo de Desenvolvimento e Testes Práticos:
+
+a montagem da estufa em uma plataforma feita por impressão 3D, colocação dos atuadores da melhor forma possível, alocação do arduino, de um LCD para visualização dos resultados, de um pequeno reservatorio de agua para a valvula solenoide, etc
+
+============================================================================================
+
+# Prompt 12
+
+Certo. Com base nos capítulos, desenvolva uma conclusão
+
+============================================================================================
+
+# Prompt 13
+
+Após o ultimo paragrafo, adicione um agradecimento
